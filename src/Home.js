@@ -18,7 +18,7 @@ const Home = () => {
       <FeturesPage/>
       <TeacherTools/>
       <ManagementPage/>
-      {/* <ExploreCourse/> */}
+      <ExploreCourse/>
       <ReasourcesPage/>
     </div>
   );

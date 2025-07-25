@@ -69,18 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 Please find today's work updates below:
-Date : 23 July, 2025
+Date : 24 July, 2025
 
 Task Name::Learning-site figma
--Completed testimonial section designing and responsiveness
--Completed responsive and designing of Resoucesses page
--Fixing responsive issue
--Adding footer at the last of home page
- 
-
-
-
-
- 
+-Created Explore page
+-Implemented condition to view bookCard onclick of tagCards.
+-Completed responsiveness at laptop screen .
+-Implemented animation on click of tagCard
+onGoing task:
+-Full responsive of explore page

@@ -77,7 +77,7 @@ const ClassroomPage = () => {
               <div className="w-[20px] 2xl:w-[30px] h-[20px] 2xl:h-[30px] bg-[#33EFA0] rounded-full absolute z-1 top-[68px] right-[86px] 2xl:right-[47px] -z-10"></div>
             </p>
           </div>
-          <div className="w-fit border relative">
+          <div className="w-fit relative">
             <div className=" w-[100px] xl:w-[138px] h-[100px] xl:h-[139px] bg-[#23BDEE] rounded-[20px] absolute z-1 top-[-10px] xl:top-[-15px] 2xl:top-[-20px] left-[-10px] xl:left-[-15px] 2xl:left-[-20px]"></div>
             <div className="w-[140px] xl:w-[180px] 2xl:w-[231px] h-[140px] xl:h-[180px] 2xl:h-[231px] bg-[#33EFA0] rounded-[20px] absolute z-1 bottom-[-10px] md:bottom-[35px] md992:bottom-[-10px] xl:bottom-[-15px] 2xl:bottom-[-20px] right-[-10px] xl:right-[-15px] 2xl:right-[-20px]"></div>
 

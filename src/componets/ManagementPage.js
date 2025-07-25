@@ -3,7 +3,7 @@ import managemenetImage from "../Assets/svgs/managementImage.svg";
 import dissimage from "../Assets/svgs/Discussions.svg";
 const ManagementPage = () => {
   return (
-    <div className="flex flex-col gap-[50px]  xl:gap-20 4xl:gap-[145px]">
+    <div className="flex flex-col gap-[50px]  xl:gap-[70px] 4xl:gap-[145px]">
       <section className="flex flex-col sm:flex-row px-5 sm:px-[30px] md:px-10 lg:px-[90px] xl:px-[100px] 3xl:px-[150px] 4xl:px-0 4xl:pl-[150px] 4xl:pr-[225px] pt-[65px] 3xl:pt-20 4xl:pt-[175px] gap-[10px] md:gap-10 lg:gap-[60px] xl:gap-[90px] items-center">
         <div className="flex flex-col w-fit">
           <div className="font-semibold max-sm:text-center w-full text-[22px] md992:text-[20px] lg:text-[25px] xl:text-[28px] 2xl:text-[40px] leading-[160%]">
